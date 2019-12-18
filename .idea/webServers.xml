@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f9a90f17-01c4-4668-8ba5-0103b7c84666" name="hello.js" url="http://178.209.70.115">
+        <fileTransfer host="178.209.70.115" port="21" rootFolder="/www/pro-critical.cf/node_js">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

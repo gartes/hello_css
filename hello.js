@@ -242,6 +242,8 @@ getCtiticalCss = async function  ( $_POST , res ){
     config.width = width;
     //  высота области экрана
     config.height = height ;
+    // Сохраняйте медиазапросы даже для значений ширины/высоты, превышающих критическую область просмотра.
+    // config.keepLargerMediaQueries = true ;
 
 
 
